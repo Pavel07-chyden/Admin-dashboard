@@ -1,3 +1,9 @@
+
+How to work with the app?
+When you click on glamadmin, the main page opens with a graph showing revenue for about half a year.
+When clicking on the Users or Product tab. The card table is visible.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
